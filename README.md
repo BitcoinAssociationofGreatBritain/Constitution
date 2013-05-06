@@ -1,4 +1,3 @@
-
 ============
 ============
 Constitution
@@ -38,7 +37,7 @@ The plan is to push the boundaries of cryptographic currencies to facilitate the
 
 What about bitcoin foundation?
 ============
-I have just joined as a member and love what bitcoin foundation is doing. However I disagree with its bye laws. Specifically I strongly feel that members should have equal rights, either as founders or by paying more money. I do however think it is wise that bagb should be associated with the bitcoin foundation. It's also worth noting clause 27 of bagb's constitution! ;)
+I have just joined as a member and love what bitcoin foundation is doing. However I disagree with its bye laws. Specifically I strongly feel that members should have equal rights. IMHO no member should have more rightd, whether by casting vote or as founders; or by paying more money. I do however think it is wise that bagb should be associated with the bitcoin foundation. It's also worth noting clause 27 of bagb's constitution may have been very useful to bitcoin foundation! ;)
 
 Why did you unilaterally decide to change [such and such] a clause in the constitution?
 ============
