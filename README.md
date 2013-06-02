@@ -9,6 +9,8 @@ So what is it?
 ============
 
 The aim is to create a legal charity for the promotion of bitcoin in the UK.
+Please read the Vision and mission statements to learn more.
+For a lot more detail please see the objects in the constitution.
 
 Why?
 ============
@@ -23,13 +25,17 @@ I currently work for a business process management firm and have the ability to 
 
 Finally I have included the clause in the constitution that I will resign as charity trustee as soon as the first meeting is organised. I am more than happy to take a back seat if not re-elected.
 
-What is the central values of this organisation?
+What are the central values of this organisation?
 ============
 Well ultimately that will be up to it's members. Every member should have equal rights and the vision is to use decentralised cryptography to embed that into a rules protocol that means no-one can subvert the intention of a majority of it's members. I have prepared draft objects and drafted a way to use bitcoin to vote. It will now be up to the members to refine these.
+To start with I have a vision and a mission for this organisation.
+Please read the Vision and mission statements to learn more.
+For a lot more detail please see the objects in the constitution.
+
 
 Is this a legal charity?
 ============
-Currently there is a waiting list for new charities to be accepted by the charities commission, but in the meantime I have made every effort to abide by the UK charities' acts. As far as an organisation goes; it now has a draft constitution. As a bitcoin organisation does not need a bank, all I now need is at least 2 more volunteer 'charity trustees' to get together and create an offline wallet for funds. My plan is to either split the private key up or encrypt the wallet with a shared secret (2 of 3?) so that the organisation is bullet proof from its very beginning. I know my psuedo-crypto plan is probably shit and there is a lot of work to do as I am very new at cryptography!
+Currently there is a waiting list for new charities to be accepted by the charities commission, but in the meantime I have made every effort to abide by the UK charities' acts. As far as an organisation goes; it now has a draft constitution. As a bitcoin organisation does not need a bank, all I now need is at least 2 more volunteer 'charity trustees' to get together and create an offline wallet for funds. My plan is to either split the private key up or encrypt the wallet with shamir's shared secret (2 of 3?) so that the organisation is bullet proof from its very beginning. I know my psuedo-crypto plan is probably shit and there is a lot of work to do as I am very new at cryptography!
 
 Development
 ============
