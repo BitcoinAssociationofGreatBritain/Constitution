@@ -34,5 +34,9 @@ Why does altering the objects require the writen consent of the Charities Commis
 =====================================================================================
 This clause would only come into affect once the charity has become a CIO. The objects must be wholely charitible and benefect the public. Therefore the Charity Commision have to check these objects match that in the first place and check any changes do not make a CIO profit making etc.
 
+Why is payment made in BTC, but specified in GBP?
+=================================================
+Bitcoin is not a perfect system and is subject to volitility. To be fair to all members the less volitile GBP rate is used so that members are paying approximately the same fees. This will come up for debate a lot, but my opinion is that it is fairer this way. We need to educate the public and the benefits and drawbacks of bitcoin. The volitility is a drawback. Also while bitcoin is very much the focus of this charity, it's members are british so use of GBP is appropriate.
+
 
 
