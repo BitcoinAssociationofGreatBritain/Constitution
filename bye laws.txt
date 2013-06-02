@@ -1,0 +1,11 @@
+Bye laws covered by the constitution and requiring a two thirds vote of trustees to ammend:
+
+  1) Poll tax is set at 2 GBP per quarter, payable in bitcoins (converted at time and date of payment at the exchange rate specified in bye law (6)) from the member's registered public key address.
+  2) Voting in ballots must be facilitated by electronic cryptography. Votes should be electronically signed by the members registered public address.
+  
+Other bye laws requiring a majority vote of trustees to ammend:
+  3) The official website is bagb.org.uk
+  4) The official location of the constitutions and bye laws is https://github.com/BitcoinAssociationofGreatBritain/Constitution
+  5) The trustees have agreed to adopt a constitution similar to the CIO constitution but with "CIO" (and similar) replaced with "unincorporated charity" and with a clause that says the CIO constitution will imediately be adopted as soon as the CIO constitution is accepted by the Charities Commission.
+  6) All exchange rates to use mtgox unless mtgox is not available in which case the exchange that has the smallest average gap between bid and ask for the preceeding week should be used.
+  
