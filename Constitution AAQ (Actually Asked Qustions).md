@@ -36,7 +36,7 @@ This clause would only come into affect once the charity has become a CIO. The o
 
 Why is payment made in BTC, but specified in GBP?
 =================================================
-Bitcoin is not a perfect system and is subject to volitility. To be fair to all members the less volitile GBP rate is used so that members are paying approximately the same fees. This will come up for debate a lot, but my opinion is that it is fairer this way. We need to educate the public and the benefits and drawbacks of bitcoin. The volitility is a drawback. Also while bitcoin is very much the focus of this charity, it's members are british so use of GBP is appropriate.
+Bitcoin is not a perfect system and is subject to volitility. To be fair to all members the less volitile GBP rate is used so that members are paying approximately the same fees. This will come up for debate a lot, but my opinion is that it is fairer this way. We need to educate the public about both the benefits and drawbacks of bitcoin. The volitility is probably bitcoin's biggest drawback. Also while bitcoin is very much the focus of this charity, it's members are British residents so use of GBP is appropriate.
 
 
 
