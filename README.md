@@ -5,6 +5,12 @@ Constitution
 
 Constitution of the organisation (which will hopefully become a Charitable Institution Organisation) known as the Bitcoin Association of Great Britain (bagb)
 
+
+So what has happened recently?
+============
+Life has got in the way. I have a baby on the way and needed to re-prioritise. I'm sure this idea has legs and I am keeping a watching brief on this.
+
+
 So what is it?
 ============
 
